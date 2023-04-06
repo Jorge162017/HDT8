@@ -1,3 +1,6 @@
+/*
+Esta sera la clase donde se ejecute el programa
+ */
 import java.io.IOException;
 import java.util.Scanner;
 public class Main {

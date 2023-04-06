@@ -1,3 +1,6 @@
+/*
+Clase de un paciente
+ */
 public class Paciente {
     private String nombre;
     private String problema;
